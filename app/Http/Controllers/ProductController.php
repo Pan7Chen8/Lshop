@@ -4,6 +4,8 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
+// test alex
+
 class ProductController extends Controller
 {
     /**
